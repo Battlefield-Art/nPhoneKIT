@@ -49,6 +49,7 @@
 + @thistleclaw
 + rakarakija
 + @dim_studios
++ taladrorodri
 
 ---
 
